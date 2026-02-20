@@ -47,6 +47,7 @@ ADVENTOUR/
 ├── js/
 └── assets/
 ```
+---
 
 ## 🌐 Deployment
 
@@ -55,8 +56,8 @@ This project can be deployed easily on:
 * Vercel
 * Netlify
 * GitHub Pages
-
-(Deployment link will be added soon.)
+  
+Link: https://adventour-lakshay.netlify.app/
 
 ---
 
